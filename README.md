@@ -1,4 +1,4 @@
-<h3> Hi there <img style="display: inline" src="./src/img/hi.gif" width="45"/> </h3>
+<h3> Hi there <img style="display: inline" src="./src/img/hi.gif" width="30"/> </h3>
 
 ### A front-end developer
 
@@ -37,7 +37,7 @@ TypeScript, HTML, SCSS, SPA<br></li>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" width="40" alt="ESLint" /></td>
     <td><img src="./src/img/vite.svg" alt="Vite" /></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" width="40" alt="Webpack" /></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" /></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="40" alt="Photoshop" /></td>
   </tr>
 </table>
