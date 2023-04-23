@@ -1,4 +1,5 @@
-<h3> Hi there <img style="display: inline" src="./src/img/hi.gif"/> </h3>
+<h3> Hi there <img style="display: inline" src="./src/img/hi.gif" width="45"/> </h3>
+
 ### A front-end developer
 
 
