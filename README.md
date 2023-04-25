@@ -1,4 +1,4 @@
-<h3> Hi there <img style="display: inline" src="./src/img/hi.gif" width="30"/> </h3>
+<h3> Hi there 👋 </h3>
 
 ### A front-end developer
 
