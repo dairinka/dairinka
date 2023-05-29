@@ -5,10 +5,12 @@
 
 ## :computer: Last team projects: 
 <ul>
+<li><a>GraphQL playgroud</a><br>
+Ract + Context, TypeScript, Tailwind, Firebase, GraphQL<br></li>
 <li><a href="https://qr-word.netlify.app/">QR generator</a><br>
-TypeScript, HTML, SCSS, SPA<br></li>
+TypeScript, HTML, SCSS, SPA, Express<br></li>
 <li><a href="https://dairinka-greiner94-online-store.netlify.app/">Online store</a><br>
-TypeScript, HTML, SCSS, SPA<br></li>
+TypeScript, HTML, SCSS, SPA, RestAPI<br></li>
 </ul>
 
 
