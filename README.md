@@ -15,35 +15,33 @@ TypeScript, HTML, SCSS, SPA, RestAPI<br></li>
 
 
 ## Programming stack
-<table>
-  <tr>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" title="Javascript" alt="Javascript" /></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" title="Typescript" alt="Typescript" /></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" title="React" alt="React" /></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="40" title="Redux" alt="Redux" /></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" title="HTML5" alt="HTML5" /></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" title="CSS3" alt="CSS3" /></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40" title="Sass" alt="Sass" /></td>
-  </tr>
-</table>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" title="Javascript" alt="Javascript" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" title="Typescript" alt="Typescript" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" title="React" alt="React" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="40" title="Redux" alt="Redux" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" title="HTML5" alt="HTML5" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" title="CSS3" alt="CSS3" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40" title="Sass" alt="Sass" />
+</div>
+
 
 ## Development and design tools
 
-<table>
-  <tr>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" title="GitHub" alt="GitHub" /></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="40" title="Jest" alt="Jest" /></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" title="VSCode" alt="VSCode" /></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="40" title="Npm" alt="Npm" /></td>
-    <td><img src="./src/img/prettier.svg" title="Javascript" alt="Prettier" /></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" width="40" title="ESLint" alt="ESLint" /></td>
-    <td><img src="./src/img/vite.svg" title="Vite" alt="Vite" /></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" width="40" title="Webpack" alt="Webpack" /></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40"/></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="40" title="Photoshop" alt="Photoshop" /></td>
-  </tr>
-</table>
-
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" title="GitHub" alt="GitHub" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="40" title="Jest" alt="Jest" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" title="VSCode" alt="VSCode" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="40" title="Npm" alt="Npm" />
+  <img src="./src/img/prettier.svg" title="Javascript" alt="Prettier" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" width="40" title="ESLint" alt="ESLint" />
+  <img src="./src/img/vite.svg" title="Vite" alt="Vite" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" width="40" title="Webpack" alt="Webpack" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="40" title="Photoshop" alt="Photoshop" />
+  
+</div>
+<br>
 🌱 Next to learn: Node.js, Next 
 
 
