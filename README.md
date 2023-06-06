@@ -5,7 +5,7 @@
 
 ## :computer: Last team projects: 
 <ul>
-<li><a>GraphQL playgroud</a><br>
+<li><a href="https://graphql-playground-app.netlify.app/">GraphQL playgroud</a><br>
 React + Context, TypeScript, Tailwind, Firebase, GraphQL<br></li>
 <li><a href="https://qr-word.netlify.app/">QR generator</a><br>
 TypeScript, HTML, SCSS, SPA, Express<br></li>
