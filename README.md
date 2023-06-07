@@ -1,9 +1,9 @@
 <h3> Hi there 👋 </h3>
 
-### A front-end developer
+### Front-end developer
 
 
-## :computer: Last team projects: 
+## Last team projects: 
 <ul>
 <li><a href="https://graphql-playground-app.netlify.app/">GraphQL playgroud</a><br>
 React + Context, TypeScript, Tailwind, Firebase, GraphQL<br></li>
@@ -12,7 +12,7 @@ TypeScript, HTML, SCSS, SPA, Express<br></li>
 <li><a href="https://dairinka-greiner94-online-store.netlify.app/">Online store</a><br>
 TypeScript, HTML, SCSS, SPA, RestAPI<br></li>
 </ul>
-
+<br>
 
 ## Programming stack
 <div>
@@ -24,7 +24,7 @@ TypeScript, HTML, SCSS, SPA, RestAPI<br></li>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" title="CSS3" alt="CSS3" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40" title="Sass" alt="Sass" />
 </div>
-
+<br>
 
 ## Development and design tools
 
@@ -41,6 +41,14 @@ TypeScript, HTML, SCSS, SPA, RestAPI<br></li>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="40" title="Photoshop" alt="Photoshop" />
   
 </div>
+<br>
+
+## Certificates
+
+<ul>
+  <li><a href="https://drive.google.com/file/d/1a6DPrAT6rFoNV8GVY3UsqAthEe24HsCL/view?usp=drive_link">React course</a></li>
+  <li><a href="https://drive.google.com/file/d/1_G4rm-AevPSncUO4_4eNcIRQqM2vvzx8/view?usp=drive_link">JS/Front-end</a></li>
+</ul>
 <br>
 🌱 Next to learn: Node.js, Next 
 
