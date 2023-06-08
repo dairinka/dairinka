@@ -5,11 +5,11 @@
 
 ## Last team projects: 
 <ul>
-<li><a href="https://graphql-playground-app.netlify.app/">GraphQL playgroud</a><br>
+<li><a href="https://graphql-playground-app.netlify.app/">GraphQL playgroud</a> | <a href="https://github.com/mada-web/graphiql-app/pull/44">Git repository</a><br>
 React + Context, TypeScript, Tailwind, Firebase, GraphQL<br></li>
-<li><a href="https://qr-word.netlify.app/">QR generator</a><br>
+<li><a href="https://qr-word.netlify.app/">QR generator</a> | <a href="https://github.com/greiner94/RS-Clone/pull/22">Git repository</a><br>
 TypeScript, HTML, SCSS, SPA, Express<br></li>
-<li><a href="https://dairinka-greiner94-online-store.netlify.app/">Online store</a><br>
+<li><a href="https://dairinka-greiner94-online-store.netlify.app/">Online store</a> | <a href="https://github.com/greiner94/Online-Store/pull/38">Git repository</a><br>
 TypeScript, HTML, SCSS, SPA, RestAPI<br></li>
 </ul>
 <br>
