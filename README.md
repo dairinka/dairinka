@@ -1,15 +1,16 @@
-<h3> Hi there 👋 </h3>
+<h2> Hi there, nice to meet you. I'm <a href=''>Iryna</a>, a front-end developer 👋 </h2>
+<br>
 
-### Front-end developer
 
 
-## Last team projects: 
+
+### Last team projects: 
 <ul>
 <li><a href="https://graphql-playground-app.netlify.app/">GraphQL playgroud</a> | <a href="https://github.com/mada-web/graphiql-app/pull/44">Git repository</a><br>
 React + Context, TypeScript, Tailwind, Firebase, GraphQL<br></li>
 <li><a href="https://qr-word.netlify.app/">QR generator</a> | <a href="https://github.com/greiner94/RS-Clone/pull/22">Git repository</a><br>
 TypeScript, HTML, SCSS, SPA, Express<br></li>
-<li><a href="https://dairinka-greiner94-online-store.netlify.app/">Online store</a> | <a href="https://github.com/greiner94/Online-Store/pull/38">Git repository</a><br>
+<li><a href="https://online-shop-dairinka-greiner.netlify.app/">Online store</a> | <a href="https://github.com/greiner94/Online-Store/pull/38">Git repository</a><br>
 TypeScript, HTML, SCSS, SPA, RestAPI<br></li>
 </ul>
 <br>
@@ -18,6 +19,8 @@ TypeScript, HTML, SCSS, SPA, RestAPI<br></li>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" title="Javascript" alt="Javascript" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" title="Typescript" alt="Typescript" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" width="40" title="Next.js" alt="Next.js" />
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" title="React" alt="React" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="40" title="Redux" alt="Redux" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" title="HTML5" alt="HTML5" />
@@ -50,7 +53,7 @@ TypeScript, HTML, SCSS, SPA, RestAPI<br></li>
   <li><a href="https://drive.google.com/file/d/1_G4rm-AevPSncUO4_4eNcIRQqM2vvzx8/view?usp=drive_link">JS/Front-end</a></li>
 </ul>
 <br>
-🌱 Next to learn: Node.js, Next 
+🌱 Next to learn: Node.js, Vue 
 
 
 ## Contacts
