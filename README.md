@@ -1,8 +1,12 @@
 <h2> Hi there, nice to meet you. I'm <a href=''>Iryna</a>, a front-end developer 👋 </h2>
 <br>
 
+### 🌱 Now I am learning Node Js in RSS School
 
+What has already been done:
 
+- <a href="https://github.com/dairinka/node-file-manager">CLI File Manger</a>
+<br>
 
 ### Last team projects: 
 <ul>
